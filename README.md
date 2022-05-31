@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am full stack developer and I love building applications that help in solve a problem. If you have a project you want to collaborate, do drop me a mailm I'd be glad tojoin.
+I am full stack developer and I love building applications that help in solve a problem. If you have a project you want to collaborate, do drop me a mail I'd be glad to join.
 
 - 📫 How to reach me: rai.peter@gmail.com
 - 

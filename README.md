@@ -2,7 +2,7 @@
 
 I am full stack developer and I love building applications that help in solve a problem. If you have a project you want to collaborate, do drop me a mail I'd be glad to join.
 
-- 📫 How to reach me: rai.peter@gmail.com
+- 📫 How to reach me: rai.peter2@gmail.com
 <!--
 **RaiPeter/RaiPeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
